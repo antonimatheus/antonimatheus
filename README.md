@@ -12,7 +12,7 @@
   <img align="center" alt="Antoni-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antoni-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Antoni-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/125527018/221006837-a975ad50-9bd1-4df0-9144-5bb2487c0413.png">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/125527018/221006837-a975ad50-9bd1-4df0-9144-5bb2487c0413.png">
 </div>
   
   ##
