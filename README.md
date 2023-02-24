@@ -1,6 +1,6 @@
 ### Oii, eu sou o Antoni Matheus, sou jovem nesse mundo de programação e tecnologia!
 
-- 🔭 Eu sou Dev Junior
+- 🔭 Eu sou Dev Treine
 - 🌱 Eu estou aprendendo Python
 - 😄 Pronomes: Ele/Dele
 
