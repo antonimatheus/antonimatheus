@@ -8,8 +8,12 @@
 - 🌱 I'm learning Python
 - 😄 Pronouns: He/His
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonimatheus&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=antonimatheus&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonimatheus&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Antoni-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +33,12 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonimatheus&bg_color=0a0e12&color=9fede7&line=d83a7c&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=footer"/>
