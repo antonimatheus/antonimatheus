@@ -1,13 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antoni+Matheus;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=68999b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Antoni+Matheus;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
-### Oii, eu sou o Antoni Matheus, sou jovem nesse mundo de programação e tecnologia!
-
-- 🔭 Eu sou Dev Treine
-- 🌱 Eu estou aprendendo Python
-- 😄 Pronomes: Ele/Dele
+- 🔭 I am Dev Train
+- 🌱 I'm learning Python
+- 😄 Pronouns: He/His
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonimatheus&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonimatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,4 +31,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonimatheus&bg_color=0a0e12&color=9fede7&line=d83a7c&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=footer"/>
