@@ -20,7 +20,7 @@
   <img align="center" alt="Antoni-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antoni-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Antoni-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Antoni-pic" height="135" style="border-radius:50px;" src="https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif">
+  <img align="right" alt="Antoni-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1079197920596873278/1079201369149423677/Antonie_M._hacker_and_programmer_4k_v_4_a453d944-d413-485c-9888-a39ca83bca54.png?width=468&height=468">
 </div>
   
   ##
