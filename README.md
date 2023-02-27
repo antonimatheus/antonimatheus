@@ -4,7 +4,7 @@
 
 ### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
-- 🔭 I am Dev Train
+- 🔭 I am Dev Junior
 - 🌱 I'm learning Python
 - 😄 Pronouns: He/His
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/antoni-matheus-a5a3b4230/)](https://www.linkedin.com/in/antoni-matheus-a5a3b4230/)
