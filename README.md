@@ -7,6 +7,8 @@
 - 🔭 I am Dev Train
 - 🌱 I'm learning Python
 - 😄 Pronouns: He/His
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/antoni-matheus-a5a3b4230/)](https://www.linkedin.com/in/antoni-matheus-a5a3b4230/)
+
 
 <div align="center">
   <a href="https://github.com/duribeiro">
