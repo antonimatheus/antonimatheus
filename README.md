@@ -4,7 +4,7 @@
 
 ### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
-- 🔭 I am Dev Junior
+- 🔭 I am a Web Developer
 - 🌱 I'm learning Python
 - 😄 Pronouns: He/His
 
