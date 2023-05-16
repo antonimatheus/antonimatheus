@@ -9,12 +9,12 @@
 - 😄 Pronouns: He/His
 
 
-/*<div align="center">
+<div align="center">
   <a>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=antonimatheus&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonimatheus&layout=compact&hide_border=false&theme=radical" />
   </a>
-</div>*/
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Antoni-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
