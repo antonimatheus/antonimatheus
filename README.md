@@ -4,10 +4,7 @@
 
 ### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
-- 🔭 I am a Web Developer
-- 🌱 I'm learning Python
-- 😄 Pronouns: He/His
-
+- 🔭 I'm a Web Developer
 
 <div align="center">
   <a>
@@ -32,8 +29,5 @@
   <a href="https://www.linkedin.com/in/antoni-matheus-a5a3b4230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonimatheus&bg_color=0a0e12&color=9fede7&line=d83a7c&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=footer"/>
