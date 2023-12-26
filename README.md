@@ -5,7 +5,6 @@
 ### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
 - 🔭 I'm a Web Developer
-- My Portfolio: https://antonisportfolio.netlify.app/
 
 <div align="center">
   <a>
