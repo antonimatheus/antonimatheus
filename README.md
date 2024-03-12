@@ -5,6 +5,8 @@
 ### Hi, I'm Antoni Matheus, I'm young in this world of programming and technology!
 
 - 🔭 I'm a Web Developer
+- Find me on <a href='https://www.linkedin.com/in/antoni-matheus-a5a3b4230/'>LinkedIn</a>.
+- Or shoot me an email: antonimatheus789@gmail.com.
 
 <div align="center">
   <a>
