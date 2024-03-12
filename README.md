@@ -24,15 +24,8 @@
   <img align="center" alt="Antoni-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Antoni-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Antoni-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Antoni-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1079197920596873278/1079201369149423677/Antonie_M._hacker_and_programmer_4k_v_4_a453d944-d413-485c-9888-a39ca83bca54.png?width=468&height=468">
 </div>
   
   ##
- 
-<div>
-  <a href="antonimatheus789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/antoni-matheus-a5a3b4230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=footer"/>
