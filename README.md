@@ -7,6 +7,9 @@
 
 I'm glad you're here! I'm a programming enthusiast and a FullStack developer. Combining engineering knowledge with my passion for software development, I aim to continuously improve my technical skills to deliver high-quality results and positively impact people with my work. I'm heavily involved in frellancer services and, lately, I've been sharing knowledge on LinkedIn, with dreams of becoming a YouTuber to propagate knowledge. I'm passionate about discussing diversity, equity, and inclusion in the world of technology!
 
+My Resume: [CurriculoDevAntoniMatheus - EN.pdf](https://github.com/user-attachments/files/17494480/CurriculoDevAntoniMatheus.-.EN.pdf)
+
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> What I'm up to
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [CursoEmVídeo](https://www.cursoemvideo.com).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Working on awesome web projects at [Workana](https://www.workana.com.br/).
