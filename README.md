@@ -6,7 +6,7 @@
 
 I'm glad you're here! I'm a FullStack developer and programming enthusiast, passionate about creating impactful software solutions. With a background in engineering, I merge technical knowledge with creativity to build innovative projects. I actively work as a freelancer on Workana and share insights on LinkedIn. My next big goal? Becoming a YouTuber to spread knowledge globally!
 
-📄 **My Resume:** [Download Here](https://github.com/user-attachments/files/17494480/CurriculoDevAntoniMatheus.-.EN.pdf)
+📄 **My Resume:** [Download Here](https://github.com/user-attachments/files/19486605/CurriculoDevAntoniMatheus.-.EN.pdf)
 
 ---
 
