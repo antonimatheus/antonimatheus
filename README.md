@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b59060&height=120&section=header"/>
 
 # Hi there! I'm Antoni Matheus!
 
@@ -85,5 +85,5 @@ Curiosity, creativity, and persistence are what drive me in this ever-evolving t
 ### 💜 Thanks for stopping by!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=27&lines=%F0%9F%98%8D+Thanks+for+everything!;%F0%9F%92%99+Follow+me+on+LinkedIn!;%F0%9F%A7%90+Check+out+my+projects!;%F0%9F%98%89+Feel+free+to+reach+out!;%F0%9F%92%96+Have+a+great+day!)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d03978&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b59060&height=120&section=footer"/>
 
